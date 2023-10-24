@@ -1,0 +1,29 @@
+version 1.0.4.15
+- S46: Spear of Irdya
+  --> fixed a bug where the scenario ended prematurely
+  --> this was caused by the wesnoth devs.
+
+version 1.0.4.14
+- S33: fixed broken code. Maybe it was broken from the start.
+    Revan, please take a programming crash course...just please...
+- Units: added graphics for Ethereal Wisp.
+
+version 1.0.4.13
+- Fixed outdated unit IDs (Mistral and Fire Guardian used instead)
+
+version 1.0.4.12
+- Fixed Olokun and Tenma's AMLA trees being broken
+- Fixed Kenshiro's AMLA tree being broken
+- Fixed Cornelya's AMLA tree being broken
+
+version 1.0.4.11
+- Added missing unit
+- added missing discord link
+
+version 1.0.4.10
+- Ported to 1.16.x server
+- Fixed bad import of dependency
+
+Changelog V. 1.0.4
+
+- Corrected missing terrain in The Legend's Cradle

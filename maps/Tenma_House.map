@@ -1,0 +1,10 @@
+border_size=1
+usage=map
+
+Xos, Xos, Xos, Rb, Rb, Rb, Xos, Xos, Xos
+Xos, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Xos
+Xos, Rb, Rb, Rb, Rb, Rb, Rb, Rb, Xos
+Xos, Rb, Rb, Rb, Rb, Rb, Rb, 1 Rb, Xos
+Xos, Rb, Rb, Rb, Rb^Ecf, Rb, Rb, Rb, Xos
+Xos, Xos, Rb, Rb, Rb, Rb, Rb, Xos, Xos
+Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos, Xos
