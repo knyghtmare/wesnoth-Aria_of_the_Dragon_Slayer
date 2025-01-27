@@ -1,3 +1,24 @@
+version 1.0.4.16
+- Scenarios
+	- The Legend's Cradle, Rekindling of a Flame & The Seer's Prophecy: dehydration effects added
+	- Clash of Powers: changed scenario's name to 'Clash of Fates'
+	- Dead World: Tenma may no longer recruit or recall, but gets new allies
+	- Brilliant Flame: added a unique dehydration effect; added more Dunefolk units along with Aeldhoryan
+	- The Daughter of Tithanya: added freezing weather effect; Cornelya may now recruit woses too
+	- Twin Hammers: Made it so that allies avoid General Uther
+	- The Spear of Irdya: Changed scenario's name to "The Light of Irdya"
+
+- Units
+	- Tenma has Nature Flare attack from the start
+	- Changed Valerya's resistances and raised her attack a little; gave her a new ability and a new attack
+	- Derceto's movement costs on dry land are no longer cancelled in "The Legend's Cradle", but she gets higher defences instead
+	- Some changes to True Water Elemental's resistances and True Earth Elemental's movement penalties
+	- Added a proper animation for Tenma's Ryushini no Yari attack
+	- Wesir is now lvl 5
+
+- Maps
+	- tweaks to some maps
+
 version 1.0.4.15
 - S46: Spear of Irdya
   --> fixed a bug where the scenario ended prematurely
