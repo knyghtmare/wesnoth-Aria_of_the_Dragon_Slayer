@@ -1,12 +1,27 @@
+version 1.0.4.17
+- Fixed specials of Ryujin Tensho last upgrade being appended instead of replacing the old ones.
+
 version 1.0.4.16
+- Bug fixes
+- Deprecation fixes
+- Remove duplicate images with WoL and add missing ones
+- Clear uncleared variables
 - Scenarios
+	-Various improvements to dialog.
 	- The Legend's Cradle, Rekindling of a Flame & The Seer's Prophecy: dehydration effects added
 	- Clash of Powers: changed scenario's name to 'Clash of Fates'
 	- Dead World: Tenma may no longer recruit or recall, but gets new allies
 	- Brilliant Flame: added a unique dehydration effect; added more Dunefolk units along with Aeldhoryan
-	- The Daughter of Tithanya: added freezing weather effect; Cornelya may now recruit woses too
+	- The Daughter of Tithanya: added freezing weather effect; Cornelya may now recruit woses too; elementals do not turn in undead anymore.
 	- Twin Hammers: Made it so that allies avoid General Uther
 	- The Spear of Irdya: Changed scenario's name to "The Light of Irdya"
+	- Cold Mountains (dwarf and troll): fixed Black Elves recruit pattern
+	- Mother of Death: fixed Augras, Schwarzel and Thrur spawing with the wrong side
+	- Frosty Shores: fixed Decerto and Leukothea moving to the wrong position
+	- Legacy of the First: fixed the size of the trigger zone.
+	- Crimson Caves: Move the dialog about more vampires to when you actually see them.
+	- Prelude of the Final War: prevent triggerting the enemies defeated event before Wesir arrives.
+	- The Children of Demere: improved control of allies
 
 - Units
 	- Tenma has Nature Flare attack from the start
@@ -15,6 +30,7 @@ version 1.0.4.16
 	- Some changes to True Water Elemental's resistances and True Earth Elemental's movement penalties
 	- Added a proper animation for Tenma's Ryushini no Yari attack
 	- Wesir is now lvl 5
+	- Yasai Warrior is now lvl2
 
 - Maps
 	- tweaks to some maps
