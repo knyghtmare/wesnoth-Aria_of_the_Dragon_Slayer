@@ -1,5 +1,6 @@
 version 1.0.4.17
 - Fixed specials of Ryujin Tensho last upgrade being appended instead of replacing the old ones.
+- Fixed Algil not being unstore in scenario 33.
 
 version 1.0.4.16
 - Bug fixes
