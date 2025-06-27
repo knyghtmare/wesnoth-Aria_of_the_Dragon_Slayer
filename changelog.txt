@@ -2,6 +2,7 @@ version 1.0.4.17
 - Fixed specials of Ryujin Tensho last upgrade being appended instead of replacing the old ones.
 - Fixed Algil not being unstore in scenario 33.
 - Fixed scenario 36.
+- Remove duplicate Blizzard attack of Aetheryon.
 
 version 1.0.4.16
 - Bug fixes
