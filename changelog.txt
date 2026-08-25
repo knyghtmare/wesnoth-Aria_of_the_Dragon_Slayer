@@ -1,3 +1,6 @@
+version 1.0.4.24
+- Prevent The Sun sets over Wesnoth from crashing if Tallin is dead
+
 version 1.0.4.23
 - Prevent Aethra from not get killed in scenario 40.
 
