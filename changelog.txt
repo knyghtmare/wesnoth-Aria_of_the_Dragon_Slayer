@@ -1,4 +1,4 @@
-version 1.0.4.24
+version 1.0.4.28
 - Prevent The Sun sets over Wesnoth from crashing if Tallin is dead
 
 version 1.0.4.23
