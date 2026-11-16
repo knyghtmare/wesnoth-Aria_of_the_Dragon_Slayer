@@ -1,3 +1,6 @@
+version 1.0.4.29
+- Prevent The Seer's Prophecy from breaking the campaign if you attack Ramoses before Akashia dies.
+
 version 1.0.4.28
 - Prevent The Sun sets over Wesnoth from crashing if Tallin is dead
 
