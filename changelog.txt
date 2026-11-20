@@ -1,4 +1,4 @@
-version 1.0.4.29
+version 1.0.4.30
 - Prevent The Seer's Prophecy from breaking the campaign if you attack Ramoses before Akashia dies.
 
 version 1.0.4.28
